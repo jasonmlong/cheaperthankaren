@@ -23,6 +23,7 @@ interface FormErrors {
   firstName?: string
   lastName?: string
   email?: string
+  role?: string
   subject?: string
   message?: string
 }
@@ -137,12 +138,12 @@ export default function ContactPage() {
               Questions About <br /><span className="text-green-600">Automating Your Workflow?</span>
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Want to know more about how this started with Catalina? We're here to help you figure out if AI email
+              Want to know more about how this started with Catalina? We&apos;re here to help you figure out if AI email
               automation makes sense for your operation.
             </p>
             <div className="bg-yellow-50 p-4 rounded-lg border border-yellow-200 max-w-2xl mx-auto">
               <p className="text-yellow-800 font-medium">
-                Fair warning: Catalina might use the AI to draft her response to you. But she'll definitely review it
+                Fair warning: Catalina might use the AI to draft her response to you. But she&apos;ll definitely review it
                 personally.
               </p>
             </div>
@@ -158,7 +159,7 @@ export default function ContactPage() {
             <Card className="border-0 shadow-lg">
               <CardHeader>
                 <CardTitle className="text-2xl">Send Us a Message</CardTitle>
-                <p className="text-gray-600">We'll get back to you within 24-48 hours (usually much faster)</p>
+                <p className="text-gray-600">We&apos;ll get back to you within 24-48 hours (usually much faster)</p>
               </CardHeader>
               <CardContent className="space-y-6">
                 {/* Success Message */}
@@ -166,7 +167,7 @@ export default function ContactPage() {
                   <Alert className="border-green-200 bg-green-50">
                     <CheckCircle className="h-4 w-4 text-green-600" />
                     <AlertDescription className="text-green-700">
-                      Thanks for reaching out! We've received your message and will get back to you soon.
+                      Thanks for reaching out! We&apos;ve received your message and will get back to you soon.
                     </AlertDescription>
                   </Alert>
                 )}
@@ -331,9 +332,9 @@ export default function ContactPage() {
                         <Users className="w-4 h-4 text-indigo-600" />
                       </div>
                       <div>
-                        <div className="font-medium text-gray-900">Catalina's Schedule</div>
+                        <div className="font-medium text-gray-900">Catalina&apos;s Schedule</div>
                         <div className="text-sm text-gray-600">
-                          She's typically online business hours, but the AI works 24/7
+                          She&apos;s typically online business hours, but the AI works 24/7
                         </div>
                       </div>
                     </div>
@@ -353,8 +354,8 @@ export default function ContactPage() {
                     </div>
                     <div className="bg-blue-50 p-4 rounded-lg border border-blue-100">
                       <p className="text-blue-800 text-sm">
-                        We're a distributed team, but if you're in Playa Del Carmen in the winter or wherever Jason is
-                        in the summers, and want to grab coffee to talk about productivity automation, he's always up
+                        We&apos;re a distributed team, but if you&apos;re in Playa Del Carmen in the winter or wherever Jason is
+                        in the summers, and want to grab coffee to talk about productivity automation, he&apos;s always up
                         for that conversation.
                       </p>
                     </div>
@@ -378,11 +379,11 @@ export default function ContactPage() {
                 <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center mb-4">
                   <MessageSquare className="w-6 h-6 text-blue-600" />
                 </div>
-                <h3 className="font-semibold text-gray-900 mb-3">If You're Curious About Our Story</h3>
+                <h3 className="font-semibold text-gray-900 mb-3">If You&apos;re Curious About Our Story</h3>
                 <ul className="text-sm text-gray-600 space-y-1">
-                  <li>• What role you're in (EA, VA, executive, etc.)</li>
+                  <li>• What role you&apos;re in (EA, VA, executive, etc.)</li>
                   <li>• What your current email situation looks like</li>
-                  <li>• Whether you're dealing with similar frustrations to what Catalina experienced</li>
+                  <li>• Whether you&apos;re dealing with similar frustrations to what Catalina experienced</li>
                 </ul>
               </CardContent>
             </Card>
@@ -396,7 +397,7 @@ export default function ContactPage() {
                 <ul className="text-sm text-gray-600 space-y-1">
                   <li>• Your current plan (Self-Managed, Professional, Business)</li>
                   <li>• What you were trying to do when the issue occurred</li>
-                  <li>• Any error messages you're seeing</li>
+                  <li>• Any error messages you&apos;re seeing</li>
                   <li>• Your browser and device info</li>
                 </ul>
               </CardContent>
@@ -447,8 +448,8 @@ export default function ContactPage() {
                   assistants—it became clear this was bigger than our office.
                 </p>
                 <p>
-                  If you're dealing with the same email overwhelm that Catalina was, I'd love to hear your story. Even
-                  if our current tool isn't the right fit, I'm always interested in understanding how we can better
+                  If you&apos;re dealing with the same email overwhelm that Catalina was, I&apos;d love to hear your story. Even
+                  if our current tool isn&apos;t the right fit, I&apos;m always interested in understanding how we can better
                   solve these productivity challenges.
                 </p>
                 <div className="bg-white p-4 rounded-lg border border-blue-200">
@@ -472,7 +473,7 @@ export default function ContactPage() {
           <div className="space-y-6">
             <Card className="border-0 shadow-lg">
               <CardContent className="p-6">
-                <h3 className="font-semibold text-gray-900 mb-2">"Is this really cheaper than hiring an assistant?"</h3>
+                <h3 className="font-semibold text-gray-900 mb-2">&quot;Is this really cheaper than hiring an assistant?&quot;</h3>
                 <p className="text-gray-600">
                   For email automation specifically? Absolutely. The Professional plan costs less than two hours of
                   assistant time per month and saves 2-3 hours daily.
@@ -482,19 +483,19 @@ export default function ContactPage() {
             <Card className="border-0 shadow-lg">
               <CardContent className="p-6">
                 <h3 className="font-semibold text-gray-900 mb-2">
-                  "Will this work for my specific industry/situation?"
+                  &quot;Will this work for my specific industry/situation?&quot;
                 </h3>
                 <p className="text-gray-600">
-                  The core email patterns are surprisingly similar across industries. If you're spending time crafting
-                  routine responses, it'll probably work for you.
+                  The core email patterns are surprisingly similar across industries. If you&apos;re spending time crafting
+                  routine responses, it&apos;ll probably work for you.
                 </p>
               </CardContent>
             </Card>
             <Card className="border-0 shadow-lg">
               <CardContent className="p-6">
-                <h3 className="font-semibold text-gray-900 mb-2">"Can I talk to Catalina directly?"</h3>
+                <h3 className="font-semibold text-gray-900 mb-2">&quot;Can I talk to Catalina directly?&quot;</h3>
                 <p className="text-gray-600">
-                  She's pretty busy these days (thanks to having more time for strategic work), but she does review
+                  She&apos;s pretty busy these days (thanks to having more time for strategic work), but she does review
                   feedback about the user experience and occasionally hops on calls with other EAs who want the inside
                   scoop.
                 </p>
@@ -502,9 +503,9 @@ export default function ContactPage() {
             </Card>
             <Card className="border-0 shadow-lg">
               <CardContent className="p-6">
-                <h3 className="font-semibold text-gray-900 mb-2">"What if I hate it?"</h3>
+                <h3 className="font-semibold text-gray-900 mb-2">&quot;What if I hate it?&quot;</h3>
                 <p className="text-gray-600">
-                  We offer a 30-day money-back guarantee. But more importantly, we want to understand why it didn't work
+                  We offer a 30-day money-back guarantee. But more importantly, we want to understand why it didn&apos;t work
                   so we can improve it.
                 </p>
               </CardContent>
@@ -518,7 +519,7 @@ export default function ContactPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-white mb-6">Ready to Start the Conversation?</h2>
           <p className="text-xl text-green-100 mb-8 max-w-2xl mx-auto">
-            Whether you're curious about our story or ready to transform your email workflow, we're here to help.
+            Whether you&apos;re curious about our story or ready to transform your email workflow, we&apos;re here to help.
           </p>
           <Button 
             size="lg" 

@@ -34,8 +34,8 @@ export default function OurStoryPage() {
           <div className="prose prose-lg mx-auto text-gray-600 space-y-6">
             <p>
               Every morning at 7 AM, my executive assistant Catalina would sit down at her computer and face the same
-              overwhelming reality: dozens of emails requiring thoughtful, personalized responses. And these weren't
-              simple "thank you" notes—they were complex communications requiring context, relationship awareness, and
+              overwhelming reality: dozens of emails requiring thoughtful, personalized responses. And these weren&apos;t
+              simple &quot;thank you&quot; notes—they were complex communications requiring context, relationship awareness, and
               my specific communication style.
             </p>
             <p>
@@ -45,15 +45,15 @@ export default function OurStoryPage() {
             <div className="bg-gray-50 p-6 rounded-lg border border-gray-200 my-8">
               <ul className="space-y-2 text-gray-700">
                 <li>
-                  <strong>"Can Jason speak at our event?"</strong> (Check calendar, provide availability, send speaking
+                  <strong>&quot;Can Jason speak at our event?&quot;</strong> (Check calendar, provide availability, send speaking
                   requirements)
                 </li>
                 <li>
-                  <strong>"Following up on our meeting"</strong> (Reference specific discussion points, outline next
+                  <strong>&quot;Following up on our meeting&quot;</strong> (Reference specific discussion points, outline next
                   steps)
                 </li>
                 <li>
-                  <strong>"Quick question about the project"</strong> (Review project status, provide contextual update)
+                  <strong>&quot;Quick question about the project&quot;</strong> (Review project status, provide contextual update)
                 </li>
               </ul>
             </div>
@@ -83,18 +83,18 @@ export default function OurStoryPage() {
                   building.
                 </p>
                 <p>
-                  She's brilliant—she could be running operations for a Fortune 500 company. Yet here she was, typing
-                  variations of the same responses she'd written hundreds of times before.
+                  She&apos;s brilliant—she could be running operations for a Fortune 500 company. Yet here she was, typing
+                  variations of the same responses she&apos;d written hundreds of times before.
                 </p>
                 <div className="bg-white p-6 rounded-lg border border-teal-200 shadow-sm">
                   <p className="text-teal-800 font-medium text-lg">
-                    That's when I realized: if patterns are predictable, they're automatable.
+                    That&apos;s when I realized: if patterns are predictable, they&apos;re automatable.
                   </p>
                 </div>
               </div>
             </div>
             <div className="bg-white p-8 rounded-2xl shadow-lg">
-              <h3 className="text-xl font-semibold text-gray-900 mb-6">Catalina's Weekly Reality</h3>
+              <h3 className="text-xl font-semibold text-gray-900 mb-6">Catalina&apos;s Weekly Reality</h3>
               <div className="space-y-4">
                 <div className="flex justify-between items-center">
                   <span className="text-gray-600">Email responses per day:</span>
@@ -126,14 +126,14 @@ export default function OurStoryPage() {
           </div>
           <div className="prose prose-lg mx-auto text-gray-600 space-y-6">
             <p>
-              As someone who's spent years in technology and business operations, I knew this problem was solvable. But
-              I didn't want to build just another generic automation tool. I wanted to create something that understood
+              As someone who&apos;s spent years in technology and business operations, I knew this problem was solvable. But
+              I didn&apos;t want to build just another generic automation tool. I wanted to create something that understood
               context, maintained relationships, and preserved the human touch that makes Catalina so effective.
             </p>
             <div className="bg-blue-50 p-6 rounded-lg border border-blue-200">
               <p className="text-blue-800 font-medium text-lg">
-                We started with a simple question: "What if AI could handle the routine responses, leaving Catalina free
-                for the strategic work only she can do?"
+                We started with a simple question: &quot;What if AI could handle the routine responses, leaving Catalina free
+                for the strategic work only she can do?&quot;
               </p>
             </div>
           </div>
@@ -216,7 +216,7 @@ export default function OurStoryPage() {
           <div className="text-center mt-12">
             <div className="bg-green-50 p-6 rounded-lg border border-green-200 max-w-2xl mx-auto">
               <p className="text-green-800 font-medium text-lg">
-                The AI didn't replace her—it amplified her capabilities.
+                The AI didn&apos;t replace her—it amplified her capabilities.
               </p>
             </div>
           </div>
@@ -227,17 +227,17 @@ export default function OurStoryPage() {
       <section className="py-16 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why "Cheaper Than Karen"?</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">Why &quot;Cheaper Than Karen&quot;?</h2>
           </div>
           <div className="prose prose-lg mx-auto text-gray-600 space-y-6">
             <p>
-              The name started as an inside joke. During development, someone mentioned that the AI was "literally
-              cheaper than hiring another Karen from accounting to help with emails." We laughed, but the truth stuck:
+              The name started as an inside joke. During development, someone mentioned that the AI was &quot;literally
+              cheaper than hiring another Karen from accounting to help with emails.&quot; We laughed, but the truth stuck:
               this automation costs a fraction of another salary, works around the clock, and gets better over time.
             </p>
             <div className="bg-yellow-50 p-6 rounded-lg border border-yellow-200">
               <p className="text-yellow-800 font-medium text-lg">
-                It's not about replacing people—it's about freeing great people from mundane tasks so they can do great
+                It&apos;s not about replacing people—it&apos;s about freeing great people from mundane tasks so they can do great
                 work.
               </p>
             </div>
@@ -254,12 +254,12 @@ export default function OurStoryPage() {
           <div className="prose prose-lg mx-auto text-gray-600 space-y-6">
             <p>
               What began as a personal productivity hack for my office became something bigger when other executives
-              started asking, "How did you clone Catalina?" They weren't seeing more of her—they were seeing her working
+              started asking, &quot;How did you clone Catalina?&quot; They weren&apos;t seeing more of her—they were seeing her working
               on higher-value activities because the routine stuff was handled automatically.
             </p>
             <div className="bg-blue-50 p-6 rounded-lg border border-blue-200">
               <p className="text-blue-800 font-medium text-lg">
-                That's when we realized this wasn't just our solution—it was a solution the entire EA and VA community
+                That&apos;s when we realized this wasn&apos;t just our solution—it was a solution the entire EA and VA community
                 needed.
               </p>
             </div>
@@ -277,17 +277,17 @@ export default function OurStoryPage() {
             <div className="prose prose-lg text-gray-600 space-y-6">
               <p>
                 Every executive assistant, virtual assistant, and administrative professional deserves to work on
-                meaningful projects that showcase their intelligence and drive business results. They shouldn't be stuck
+                meaningful projects that showcase their intelligence and drive business results. They shouldn&apos;t be stuck
                 in email prison, crafting the same responses over and over.
               </p>
               <p>
                 CheaperThanKaren.com exists to automate the routine so human intelligence can focus on what actually
-                matters. We're building tools that make assistants more valuable, not replaceable.
+                matters. We&apos;re building tools that make assistants more valuable, not replaceable.
               </p>
             </div>
             <Card className="border-0 shadow-lg">
               <CardContent className="p-8">
-                <h3 className="text-xl font-semibold text-gray-900 mb-6">What We're Building</h3>
+                <h3 className="text-xl font-semibold text-gray-900 mb-6">What We&apos;re Building</h3>
                 <div className="space-y-4">
                   <div className="flex items-center gap-3">
                     <div className="w-8 h-8 bg-blue-100 rounded-full flex items-center justify-center">
@@ -368,13 +368,13 @@ export default function OurStoryPage() {
                 </div>
                 <p className="text-gray-600 leading-relaxed mb-4">
                   The inspiration behind everything we build. Catalina ensures that every tool we create actually makes
-                  assistants' lives better, not more complicated. Her feedback drives our product development because if
-                  it doesn't work for her, it doesn't ship.
+                  assistants&apos; lives better, not more complicated. Her feedback drives our product development because if
+                  it doesn&apos;t work for her, it doesn&apos;t ship.
                 </p>
                 <div className="bg-teal-50 p-4 rounded-lg border border-teal-200">
                   <p className="text-teal-800 text-sm font-medium">
-                    If something we build doesn't pass the "Catalina test" - meaning it doesn't actually save her time or
-                    improve her work quality - we don't release it.
+                    If something we build doesn&apos;t pass the &quot;Catalina test&quot; - meaning it doesn&apos;t actually save her time or
+                    improve her work quality - we don&apos;t release it.
                   </p>
                 </div>
               </CardContent>
@@ -387,10 +387,10 @@ export default function OurStoryPage() {
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">What's Next</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">What&apos;s Next</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              This started as a solution for one assistant's email overwhelm and has become a mission to transform how
-              businesses think about administrative automation. We're building a complete suite of tools that will
+              This started as a solution for one assistant&apos;s email overwhelm and has become a mission to transform how
+              businesses think about administrative automation. We&apos;re building a complete suite of tools that will
               automate the routine so human intelligence can focus on what actually matters.
             </p>
           </div>
@@ -444,18 +444,18 @@ export default function OurStoryPage() {
           <div className="bg-white p-8 rounded-2xl shadow-lg">
             <div className="prose prose-lg text-gray-600 space-y-6">
               <p>
-                Every tool we build will be tested in our own operation first. If it doesn't make Catalina's workday
-                better, it doesn't get released. If it doesn't provide clear economic value, it doesn't get built. If it
-                doesn't solve a real problem that real assistants face, it doesn't make it past the idea stage.
+                Every tool we build will be tested in our own operation first. If it doesn&apos;t make Catalina&apos;s workday
+                better, it doesn&apos;t get released. If it doesn&apos;t provide clear economic value, it doesn&apos;t get built. If it
+                doesn&apos;t solve a real problem that real assistants face, it doesn&apos;t make it past the idea stage.
               </p>
               <p>
-                We're not just building software—we're building the future of administrative work, where human
+                We&apos;re not just building software—we&apos;re building the future of administrative work, where human
                 creativity and strategic thinking are supported by intelligent automation instead of buried under
                 routine tasks.
               </p>
               <div className="bg-teal-50 p-6 rounded-lg border border-teal-200 mt-6">
                 <p className="text-teal-800 font-medium text-lg text-center">
-                  Because the best assistants shouldn't be doing assistant work—they should be doing strategic work that
+                  Because the best assistants shouldn&apos;t be doing assistant work—they should be doing strategic work that
                   happens to include some assistance.
                 </p>
               </div>

@@ -33,7 +33,7 @@ export default function PrivacyPolicyPage() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <p>
-                  At Cheaperthankaren.com ("we," "our," or "us"), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and AI Email Drafter service.
+                  At Cheaperthankaren.com (&quot;we,&quot; &quot;our,&quot; or &quot;us&quot;), we respect your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and AI Email Drafter service.
                 </p>
                 <div className="bg-blue-50 p-4 rounded-lg border border-blue-200">
                   <p className="text-blue-800 font-medium">
@@ -74,7 +74,7 @@ export default function PrivacyPolicyPage() {
                     <li><strong>Temporary Processing:</strong> Email content is processed temporarily to generate draft responses</li>
                     <li><strong>No Permanent Storage:</strong> Email content is never stored permanently on our servers</li>
                     <li><strong>Immediate Deletion:</strong> Content is deleted from our systems immediately after processing</li>
-                    <li><strong>Local Processing:</strong> When possible, processing occurs within Google's infrastructure</li>
+                    <li><strong>Local Processing:</strong> When possible, processing occurs within Google&apos;s infrastructure</li>
                   </ul>
                 </div>
               </CardContent>
@@ -129,8 +129,8 @@ export default function PrivacyPolicyPage() {
                   <ul className="list-disc pl-6 space-y-2">
                     <li><strong>Sell Your Data:</strong> We never sell, rent, or trade your personal information</li>
                     <li><strong>Share Email Content:</strong> Your email content is never shared with third parties</li>
-                    <li><strong>Use Content for Training:</strong> We don't use your emails to train AI models for other customers</li>
-                    <li><strong>Cross-Customer Data Sharing:</strong> Each customer's data is completely isolated</li>
+                    <li><strong>Use Content for Training:</strong> We don&apos;t use your emails to train AI models for other customers</li>
+                    <li><strong>Cross-Customer Data Sharing:</strong> Each customer&apos;s data is completely isolated</li>
                   </ul>
                 </div>
 
@@ -154,7 +154,7 @@ export default function PrivacyPolicyPage() {
               </CardHeader>
               <CardContent>
                 <ul className="list-disc pl-6 space-y-2">
-                  <li><strong>Google Workspace:</strong> Our service integrates with Gmail through Google's secure APIs</li>
+                  <li><strong>Google Workspace:</strong> Our service integrates with Gmail through Google&apos;s secure APIs</li>
                   <li><strong>AI Providers:</strong> For Professional and Business plans, we process requests through OpenAI, Anthropic, or Google</li>
                   <li><strong>Payment Processors:</strong> Billing handled by secure, PCI-compliant payment providers</li>
                 </ul>
@@ -180,10 +180,10 @@ export default function PrivacyPolicyPage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Google Workspace Integration</h4>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li><strong>OAuth Security:</strong> Secure authentication through Google's OAuth system</li>
+                    <li><strong>OAuth Security:</strong> Secure authentication through Google&apos;s OAuth system</li>
                     <li><strong>Limited Permissions:</strong> We only request the minimum permissions necessary</li>
-                    <li><strong>Google's Security:</strong> Leveraging Google's enterprise-grade security infrastructure</li>
-                    <li><strong>Data Residency:</strong> Processing occurs within Google's secure ecosystem when possible</li>
+                    <li><strong>Google&apos;s Security:</strong> Leveraging Google&apos;s enterprise-grade security infrastructure</li>
+                    <li><strong>Data Residency:</strong> Processing occurs within Google&apos;s secure ecosystem when possible</li>
                   </ul>
                 </div>
 
@@ -300,10 +300,10 @@ export default function PrivacyPolicyPage() {
             {/* Final Note */}
             <div className="bg-blue-50 p-6 rounded-lg border border-blue-200">
               <p className="text-blue-800">
-                Questions about this Privacy Policy? Email Catalina at privacy@cheaperthankaren.com (and yes, she might use the AI to draft her response, but she'll personally review every privacy inquiry because this stuff matters).
+                Questions about this Privacy Policy? Email Catalina at privacy@cheaperthankaren.com (and yes, she might use the AI to draft her response, but she&apos;ll personally review every privacy inquiry because this stuff matters).
               </p>
               <p className="text-blue-800 mt-4">
-                This Privacy Policy is designed to be both comprehensive and understandable. If any section is unclear, please don't hesitate to reach out for clarification.
+                This Privacy Policy is designed to be both comprehensive and understandable. If any section is unclear, please don&apos;t hesitate to reach out for clarification.
               </p>
             </div>
 

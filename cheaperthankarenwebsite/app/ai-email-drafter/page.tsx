@@ -18,7 +18,7 @@ export default function AIEmailDrafterPage() {
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
               The same AI that saved my EA 1-4 hours daily is now available for your team. Because great assistants
-              shouldn't be stuck writing the same emails over and over.
+              shouldn&apos;t be stuck writing the same emails over and over.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
               <Button size="lg" className="cursor-pointer bg-blue-600 hover:bg-blue-700 text-white px-8 py-3">
@@ -40,15 +40,15 @@ export default function AIEmailDrafterPage() {
               </h2>
               <div className="prose prose-lg text-gray-600 space-y-4">
                 <p>
-                  The AI Email Drafter wasn't built in a boardroom—it was born out of watching my brilliant executive
+                  The AI Email Drafter wasn&apos;t built in a boardroom—it was born out of watching my brilliant executive
                   assistant, Catalina, spend half her day on repetitive email tasks.
                 </p>
                 <p>
-                  She's capable of running complex projects and strategic initiatives, but instead she was typing
-                  variations of "Thanks for reaching out, let me check Jason's calendar..."
+                  She&apos;s capable of running complex projects and strategic initiatives, but instead she was typing
+                  variations of &quot;Thanks for reaching out, let me check Jason&apos;s calendar...&quot;
                 </p>
                 <p>
-                  We built this tool specifically to solve Catalina's daily email grind. Now it's solving the same
+                  We built this tool specifically to solve Catalina&apos;s daily email grind. Now it&apos;s solving the same
                   problem for assistants everywhere.
                 </p>
               </div>
@@ -73,7 +73,7 @@ export default function AIEmailDrafterPage() {
                 <div className="flex items-center gap-3">
                   <CheckCircle className="w-5 h-5 text-green-500" />
                   <span className="text-gray-700">
-                    She finally had time for the strategic work she's actually great at
+                    She finally had time for the strategic work she&apos;s actually great at
                   </span>
                 </div>
               </div>
@@ -110,7 +110,7 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">✍️ Writing Style That Sounds Like You</h3>
                 <p className="text-gray-600">
-                  The system learns your specific communication style by analyzing your past emails. Whether you're
+                  The system learns your specific communication style by analyzing your past emails. Whether you&apos;re
                   naturally formal, conversational, or somewhere in between, the AI maintains your authentic voice
                   across all responses.
                 </p>
@@ -125,7 +125,7 @@ export default function AIEmailDrafterPage() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">📧 Context Awareness That Impresses</h3>
                 <p className="text-gray-600">
                   Reviews up to 50 previous emails with each contact to understand ongoing relationships, projects, and
-                  conversation history. No more "Can you remind me what we discussed?" emails.
+                  conversation history. No more &quot;Can you remind me what we discussed?&quot; emails.
                 </p>
               </CardContent>
             </Card>
@@ -257,7 +257,7 @@ export default function AIEmailDrafterPage() {
                   $3.99<span className="text-lg font-normal text-gray-600">/month</span>
                 </div>
                 <div className="text-sm text-gray-600">Annual: $27.95 (Save $24.36/year)</div>
-                <p className="text-sm text-gray-500 italic">"Perfect for testing the waters or smaller operations"</p>
+                <p className="text-sm text-gray-500 italic">&quot;Perfect for testing the waters or smaller operations&quot;</p>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="space-y-2">
@@ -288,7 +288,7 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <div className="bg-blue-50 p-3 rounded-lg border border-blue-100">
                   <p className="text-sm text-blue-800 italic">
-                    What Catalina Says: "Great for getting started and seeing how much time you'll actually save."
+                    What Catalina Says: &quot;Great for getting started and seeing how much time you&apos;ll actually save.&quot;
                   </p>
                 </div>
                 <Button className="cursor-pointer w-full" variant="outline">
@@ -300,7 +300,7 @@ export default function AIEmailDrafterPage() {
             {/* Professional Plan */}
             <Card className="border-2 border-blue-500 relative">
               <div className="absolute -top-3 left-1/2 transform -translate-x-1/2">
-                <Badge className="bg-blue-500 text-white">⭐ Catalina's Choice</Badge>
+                <Badge className="bg-blue-500 text-white">⭐ Catalina&apos;s Choice</Badge>
               </div>
               <CardHeader className="text-center pb-4">
                 <CardTitle className="text-xl">Professional Plan</CardTitle>
@@ -309,7 +309,7 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <div className="text-sm text-gray-600">Annual: $79.99 (Save $23.16/year)</div>
                 <p className="text-sm text-gray-500 italic">
-                  "Everything handled for you—this is what we actually use"
+                  &quot;Everything handled for you—this is what we actually use&quot;
                 </p>
               </CardHeader>
               <CardContent className="space-y-4">
@@ -346,8 +346,8 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <div className="bg-blue-50 p-3 rounded-lg border border-blue-100">
                   <p className="text-sm text-blue-800 italic">
-                    What Catalina Says: "This is the sweet spot. Everything just works, and I don't have to think about
-                    API keys or limits."
+                    What Catalina Says: &quot;This is the sweet spot. Everything just works, and I don&apos;t have to think about
+                    API keys or limits.&quot;
                   </p>
                 </div>
                 <Button className="cursor-pointer w-full bg-blue-600 hover:bg-blue-700">Get Started!</Button>
@@ -362,7 +362,7 @@ export default function AIEmailDrafterPage() {
                   $17.99<span className="text-lg font-normal text-gray-600">/month</span>
                 </div>
                 <div className="text-sm text-gray-600">Annual: $159.99 (Save $47.88/year)</div>
-                <p className="text-sm text-gray-500 italic">"For high-volume operations or growing teams"</p>
+                <p className="text-sm text-gray-500 italic">&quot;For high-volume operations or growing teams&quot;</p>
               </CardHeader>
               <CardContent className="space-y-4">
                 <div className="space-y-2">
@@ -386,8 +386,8 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <div className="bg-blue-50 p-3 rounded-lg border border-blue-100">
                   <p className="text-sm text-blue-800 italic">
-                    What Catalina Says: "If you're processing hundreds of emails daily, this pays for itself in the
-                    first week."
+                    What Catalina Says: &quot;If you&apos;re processing hundreds of emails daily, this pays for itself in the
+                    first week.&quot;
                   </p>
                 </div>
                 <Button className="cursor-pointer w-full" variant="outline">
@@ -436,7 +436,7 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-gray-600">Consistency:</span>
-                  <span className="font-semibold text-green-600">No more "off" days or rushed responses</span>
+                  <span className="font-semibold text-green-600">No more &quot;off&quot; days or rushed responses</span>
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-gray-600">Professional tone:</span>
@@ -458,9 +458,9 @@ export default function AIEmailDrafterPage() {
           <div className="text-center">
             <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-8">What Catalina Wants You to Know</h2>
             <blockquote className="text-lg md:text-xl text-gray-700 italic leading-relaxed mb-6">
-              "Before this tool, I felt like an expensive typist. Now I feel like the strategic partner Jason hired me
-              to be. The AI doesn't replace my judgment—it frees up my time to use it on things that actually matter. If
-              you're spending hours a day on email responses, this will change your professional life."
+              &quot;Before this tool, I felt like an expensive typist. Now I feel like the strategic partner Jason hired me
+              to be. The AI doesn&apos;t replace my judgment—it frees up my time to use it on things that actually matter. If
+              you&apos;re spending hours a day on email responses, this will change your professional life.&quot;
             </blockquote>
             <div className="text-gray-600">— Catalina, Executive Assistant</div>
           </div>
@@ -475,7 +475,7 @@ export default function AIEmailDrafterPage() {
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Install AI Email Drafter from the Google Workspace Marketplace and see the same results that transformed
-            Catalina's workday.
+            Catalina&apos;s workday.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="px-8 py-3 cursor-pointer">

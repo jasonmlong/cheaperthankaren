@@ -66,9 +66,9 @@ export default function AboutPage() {
                   </div>
                 </div>
                 <p className="text-gray-600 leading-relaxed">
-                  I've spent my career in technology and business operations, but this project is personal. After
+                  I&apos;ve spent my career in technology and business operations, but this project is personal. After
                   watching Catalina—one of the most capable professionals I know—spend hours daily on automatable tasks,
-                  I couldn't unsee the problem. When not building productivity tools, I'm usually planning the strategic
+                  I couldn&apos;t unsee the problem. When not building productivity tools, I&apos;m usually planning the strategic
                   projects that Catalina now has time to execute.
                 </p>
               </CardContent>
@@ -88,12 +88,12 @@ export default function AboutPage() {
                 <p className="text-gray-600 leading-relaxed">
                   The inspiration and reality-check behind every feature we build. Catalina ensures that our tools
                   actually solve real problems for real assistants, not just sound good in demos. Her feedback drives
-                  our product development because if it doesn't work for her daily workflow, it doesn't ship.
+                  our product development because if it doesn&apos;t work for her daily workflow, it doesn&apos;t ship.
                 </p>
                 <div className="mt-4 p-4 bg-purple-50 rounded-lg border border-purple-100">
                   <p className="text-purple-800 text-sm font-medium">
-                    If something we build doesn't pass the "Catalina test"—meaning it doesn't actually save her time or
-                    improve her work quality—we don't release it.
+                    If something we build doesn&apos;t pass the &quot;Catalina test&quot;—meaning it doesn&apos;t actually save her time or
+                    improve her work quality—we don&apos;t release it.
                   </p>
                 </div>
               </CardContent>
@@ -118,8 +118,8 @@ export default function AboutPage() {
                   Technology Should Amplify Human Intelligence, Not Replace It
                 </h3>
                 <p className="text-gray-600">
-                  We're not trying to replace assistants—we're trying to free them from mundane tasks so they can do
-                  what they're actually great at. Catalina didn't become less valuable when we automated her email
+                  We&apos;re not trying to replace assistants—we&apos;re trying to free them from mundane tasks so they can do
+                  what they&apos;re actually great at. Catalina didn&apos;t become less valuable when we automated her email
                   responses; she became more valuable because she could focus on strategic work.
                 </p>
               </CardContent>
@@ -132,7 +132,7 @@ export default function AboutPage() {
                 </div>
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">Real Problems Deserve Real Solutions</h3>
                 <p className="text-gray-600">
-                  Every feature we build solves a problem that Catalina actually experienced. We don't add functionality
+                  Every feature we build solves a problem that Catalina actually experienced. We don&apos;t add functionality
                   because it sounds impressive; we add it because it addresses a real workflow pain point. This keeps us
                   focused on utility over novelty.
                 </p>
@@ -147,7 +147,7 @@ export default function AboutPage() {
                 <h3 className="text-xl font-semibold text-gray-900 mb-4">Simple Tools That Actually Work</h3>
                 <p className="text-gray-600">
                   The best productivity tools are invisible—they solve your problem without creating new ones. We
-                  prioritize reliability and ease of use over feature complexity because frustrated users don't save
+                  prioritize reliability and ease of use over feature complexity because frustrated users don&apos;t save
                   time, regardless of how sophisticated the technology is.
                 </p>
               </CardContent>
@@ -161,19 +161,19 @@ export default function AboutPage() {
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-8">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              Why "Cheaper Than Karen" Isn't Just a Joke
+              Why &quot;Cheaper Than Karen&quot; Isn&apos;t Just a Joke
             </h2>
           </div>
           <div className="bg-white p-8 rounded-2xl shadow-lg">
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
               The name captures an important truth about business automation: it should provide clear economic value.
               Our AI email automation costs less per month than two hours of assistant time but saves 2-3 hours daily.
-              That's not just convenient—it's financially transformative for businesses of any size.
+              That&apos;s not just convenient—it&apos;s financially transformative for businesses of any size.
             </p>
             <div className="bg-blue-50 p-6 rounded-lg border border-blue-100">
               <p className="text-blue-800 font-medium">
-                We could have chosen a more corporate name, but "Cheaper Than Karen" reminds us (and our customers) that
-                we're solving a real economic problem, not just building cool technology.
+                We could have chosen a more corporate name, but &quot;Cheaper Than Karen&quot; reminds us (and our customers) that
+                we&apos;re solving a real economic problem, not just building cool technology.
               </p>
             </div>
           </div>
@@ -184,9 +184,9 @@ export default function AboutPage() {
       <section className="py-16 bg-white">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">What's Next</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">What&apos;s Next</h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              This started as a solution for one assistant's email overwhelm and has become a mission to transform how
+              This started as a solution for one assistant&apos;s email overwhelm and has become a mission to transform how
               businesses think about administrative automation.
             </p>
           </div>
@@ -240,18 +240,18 @@ export default function AboutPage() {
           <div className="bg-white p-8 rounded-2xl shadow-lg">
             <div className="prose prose-lg text-gray-600 space-y-4">
               <p>
-                Every tool we build will be tested in our own operation first. If it doesn't make Catalina's workday
-                better, it doesn't get released. If it doesn't provide clear economic value, it doesn't get built. If it
-                doesn't solve a real problem that real assistants face, it doesn't make it past the idea stage.
+                Every tool we build will be tested in our own operation first. If it doesn&apos;t make Catalina&apos;s workday
+                better, it doesn&apos;t get released. If it doesn&apos;t provide clear economic value, it doesn&apos;t get built. If it
+                doesn&apos;t solve a real problem that real assistants face, it doesn&apos;t make it past the idea stage.
               </p>
               <p>
-                We're not just building software—we're building the future of administrative work, where human
+                We&apos;re not just building software—we&apos;re building the future of administrative work, where human
                 creativity and strategic thinking are supported by intelligent automation instead of buried under
                 routine tasks.
               </p>
               <div className="bg-purple-50 p-6 rounded-lg border border-purple-100 mt-6">
                 <p className="text-purple-800 font-medium text-lg text-center">
-                  Because the best assistants shouldn't be doing assistant work—they should be doing strategic work that
+                  Because the best assistants shouldn&apos;t be doing assistant work—they should be doing strategic work that
                   happens to include some assistance.
                 </p>
               </div>

@@ -34,11 +34,11 @@ export default function TermsOfServicePage() {
               </CardHeader>
               <CardContent className="space-y-4">
                 <p>
-                  These Terms of Service ("Terms") govern your use of our website and AI Email Drafter service. By using our service, you agree to these Terms. If you don't agree, please don't use our service.
+                  These Terms of Service (&quot;Terms&quot;) govern your use of our website and AI Email Drafter service. By using our service, you agree to these Terms. If you don&apos;t agree, please don&apos;t use our service.
                 </p>
                 <div className="bg-green-50 p-4 rounded-lg border border-green-200">
                   <p className="text-green-800 font-medium">
-                    <strong>The Simple Version:</strong> Use our service responsibly, don't abuse it, pay your bills on time, and we'll provide reliable email automation that actually works. We're all adults here.
+                    <strong>The Simple Version:</strong> Use our service responsibly, don&apos;t abuse it, pay your bills on time, and we&apos;ll provide reliable email automation that actually works. We&apos;re all adults here.
                   </p>
                 </div>
               </CardContent>
@@ -58,13 +58,13 @@ export default function TermsOfServicePage() {
                 </div>
 
                 <div>
-                  <h4 className="font-semibold text-lg mb-3">What We Don't Provide</h4>
+                  <h4 className="font-semibold text-lg mb-3">What We Don&apos;t Provide</h4>
                   <ul className="list-disc pl-6 space-y-2">
                     <li>Legal, financial, or professional advice through our AI</li>
                     <li>Guarantee that every AI-generated draft will be perfect</li>
                     <li>Email sending services (we create drafts; you review and send)</li>
                     <li>Data recovery services for information you delete</li>
-                    <li>Customer support for non-business hours emergencies (unless you're on our Business plan)</li>
+                    <li>Customer support for non-business hours emergencies (unless you&apos;re on our Business plan)</li>
                   </ul>
                 </div>
               </CardContent>
@@ -89,18 +89,18 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Account Security</h4>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li>You're responsible for keeping your account credentials secure</li>
+                    <li>You&apos;re responsible for keeping your account credentials secure</li>
                     <li>You must notify us immediately of any unauthorized access</li>
-                    <li>You're responsible for all activities under your account</li>
+                    <li>You&apos;re responsible for all activities under your account</li>
                     <li>We recommend using strong passwords and enabling two-factor authentication</li>
-                    <li>Don't share your account with unauthorized users</li>
+                    <li>Don&apos;t share your account with unauthorized users</li>
                   </ul>
                 </div>
 
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Business vs. Personal Use</h4>
                   <p>
-                    Our service is designed for business and professional use. While we don't prohibit personal use, our features and support are optimized for business email workflows.
+                    Our service is designed for business and professional use. While we don&apos;t prohibit personal use, our features and support are optimized for business email workflows.
                   </p>
                 </div>
               </CardContent>
@@ -192,17 +192,17 @@ export default function TermsOfServicePage() {
                     <li>Infringe on intellectual property rights</li>
                     <li>Attempt to reverse engineer or circumvent our security measures</li>
                     <li>Resell or redistribute our service without authorization</li>
-                    <li>Generate content that violates our AI providers' usage policies</li>
+                    <li>Generate content that violates our AI providers&apos; usage policies</li>
                   </ul>
                 </div>
 
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Content Responsibility</h4>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li>You're responsible for all content processed through our service</li>
+                    <li>You&apos;re responsible for all content processed through our service</li>
                     <li>You warrant that you have the right to process all email content</li>
-                    <li>You're responsible for reviewing and approving all AI-generated drafts before sending</li>
-                    <li>We're not responsible for the content of emails you choose to send</li>
+                    <li>You&apos;re responsible for reviewing and approving all AI-generated drafts before sending</li>
+                    <li>We&apos;re not responsible for the content of emails you choose to send</li>
                   </ul>
                 </div>
               </CardContent>
@@ -219,7 +219,7 @@ export default function TermsOfServicePage() {
                   <ul className="list-disc pl-6 space-y-2">
                     <li>The Cheaperthankaren.com service, software, and website are our property</li>
                     <li>Our trademarks, logos, and brand elements are protected</li>
-                    <li>The AI models and algorithms we've developed are proprietary</li>
+                    <li>The AI models and algorithms we&apos;ve developed are proprietary</li>
                     <li>You may not copy, modify, or create derivative works of our service</li>
                   </ul>
                 </div>
@@ -230,7 +230,7 @@ export default function TermsOfServicePage() {
                     <li>You retain all rights to your email content and data</li>
                     <li>You grant us a limited license to process your content to provide our service</li>
                     <li>This license terminates when you delete content or close your account</li>
-                    <li>We don't claim ownership of your business communications</li>
+                    <li>We don&apos;t claim ownership of your business communications</li>
                   </ul>
                 </div>
 
@@ -268,7 +268,7 @@ export default function TermsOfServicePage() {
                     <li>Your data is stored solely within your Gmail account. We do not have access to it. So if you want it deleted, delete it in your account.</li>
                     <li>You can request deletion of your account and associated data. This is limited solely to billing related information and support tickets.</li>
                     <li>You maintain control over what emails are processed by our service.</li>
-                    <li>You can revoke our access to your Gmail account through Google's admin console.</li>
+                    <li>You can revoke our access to your Gmail account through Google&apos;s admin console.</li>
                   </ul>
                 </div>
 
@@ -276,8 +276,8 @@ export default function TermsOfServicePage() {
                   <h4 className="font-semibold text-lg mb-3">Third-Party Integrations</h4>
                   <ul className="list-disc pl-6 space-y-2">
                     <li>Our service integrates with Google Workspace and AI providers</li>
-                    <li>These integrations are subject to the third parties' terms and privacy policies</li>
-                    <li>We're not responsible for third-party data handling practices</li>
+                    <li>These integrations are subject to the third parties&apos; terms and privacy policies</li>
+                    <li>We&apos;re not responsible for third-party data handling practices</li>
                     <li>You should review the privacy policies of all integrated services</li>
                   </ul>
                 </div>
@@ -315,7 +315,7 @@ export default function TermsOfServicePage() {
                   <ul className="list-disc pl-6 space-y-2">
                     <li>We may update, modify, or discontinue features with reasonable notice</li>
                     <li>Major changes will be announced at least 30 days in advance</li>
-                    <li>We'll provide migration assistance for deprecated features when possible</li>
+                    <li>We&apos;ll provide migration assistance for deprecated features when possible</li>
                     <li>Continued use after changes constitutes acceptance of modifications</li>
                   </ul>
                 </div>
@@ -329,13 +329,13 @@ export default function TermsOfServicePage() {
               </CardHeader>
               <CardContent className="space-y-6">
                 <div>
-                  <h4 className="font-semibold text-lg mb-3">What We're Not Responsible For</h4>
+                  <h4 className="font-semibold text-lg mb-3">What We&apos;re Not Responsible For</h4>
                   <ul className="list-disc pl-6 space-y-2">
                     <li>Errors or inaccuracies in AI-generated content</li>
                     <li>Business decisions based on our service output</li>
                     <li>Loss of data due to user error or account deletion</li>
                     <li>Indirect, consequential, or punitive damages</li>
-                    <li>Damages exceeding the amount you've paid us in the past 12 months</li>
+                    <li>Damages exceeding the amount you&apos;ve paid us in the past 12 months</li>
                   </ul>
                 </div>
 
@@ -352,7 +352,7 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Force Majeure</h4>
                   <p>
-                    We're not liable for delays or failures caused by circumstances beyond our reasonable control, including natural disasters, government actions, internet outages, or third-party service failures.
+                    We&apos;re not liable for delays or failures caused by circumstances beyond our reasonable control, including natural disasters, government actions, internet outages, or third-party service failures.
                   </p>
                 </div>
               </CardContent>
@@ -405,7 +405,7 @@ export default function TermsOfServicePage() {
                   <h4 className="font-semibold text-lg mb-3">Effect of Termination</h4>
                   <ul className="list-disc pl-6 space-y-2">
                     <li>Your right to use the service ends immediately</li>
-                    <li>We'll delete your account data according to our Privacy Policy</li>
+                    <li>We&apos;ll delete your account data according to our Privacy Policy</li>
                     <li>Any prepaid fees are non-refundable</li>
                     <li>These Terms continue to apply to past use of our service</li>
                   </ul>
@@ -432,8 +432,8 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Partial Refunds</h4>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li>We don't provide partial refunds for unused monthly allowances</li>
-                    <li>Early cancellation doesn't result in prorated refunds</li>
+                    <li>We don&apos;t provide partial refunds for unused monthly allowances</li>
+                    <li>Early cancellation doesn&apos;t result in prorated refunds</li>
                     <li>Service credits may be provided for significant service outages at our discretion</li>
                   </ul>
                 </div>
@@ -449,7 +449,7 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">Informal Resolution</h4>
                   <p>
-                    Before formal legal action, please contact us at hello@cheaperthankaren.com to resolve disputes informally. We're committed to working out reasonable solutions.
+                    Before formal legal action, please contact us at hello@cheaperthankaren.com to resolve disputes informally. We&apos;re committed to working out reasonable solutions.
                   </p>
                 </div>
 
@@ -509,7 +509,7 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">No Waiver</h4>
                   <p>
-                    Our failure to enforce any provision doesn't waive our right to enforce it later.
+                    Our failure to enforce any provision doesn&apos;t waive our right to enforce it later.
                   </p>
                 </div>
 
@@ -560,7 +560,7 @@ export default function TermsOfServicePage() {
                   <p>Website: https://cheaperthankaren.com/contact</p>
                 </div>
                 <div>
-                  <h4 className="font-semibold">If you can't get us at the email addresses above, send a message through the contact form on <a href = "https://jhmediagroup.com/contact-us/">JH Media Group</a></h4>
+                  <h4 className="font-semibold">If you can&apos;t get us at the email addresses above, send a message through the contact form on <a href = "https://jhmediagroup.com/contact-us/">JH Media Group</a></h4>
                   <p>Website: https://www.jhmediagroup.com/contact</p>
                 </div>
                 <div>
@@ -580,8 +580,8 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">AI Email Drafter</h4>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li>Drafts are suggestions only; you're responsible for final content</li>
-                    <li>AI accuracy improves over time but isn't guaranteed</li>
+                    <li>Drafts are suggestions only; you&apos;re responsible for final content</li>
+                    <li>AI accuracy improves over time but isn&apos;t guaranteed</li>
                     <li>Processing requires active Google Workspace integration</li>
                     <li>Some email types may not be suitable for AI processing</li>
                   </ul>
@@ -591,8 +591,8 @@ export default function TermsOfServicePage() {
                   <h4 className="font-semibold text-lg mb-3">Google Workspace Integration</h4>
                   <ul className="list-disc pl-6 space-y-2">
                     <li>Requires appropriate Google Workspace permissions</li>
-                    <li>Subject to Google's terms of service and policies</li>
-                    <li>We're not responsible for Google service outages or changes</li>
+                    <li>Subject to Google&apos;s terms of service and policies</li>
+                    <li>We&apos;re not responsible for Google service outages or changes</li>
                     <li>You can revoke integration access at any time</li>
                   </ul>
                 </div>
@@ -600,9 +600,9 @@ export default function TermsOfServicePage() {
                 <div>
                   <h4 className="font-semibold text-lg mb-3">API Key Management (Self-Managed Plans)</h4>
                   <ul className="list-disc pl-6 space-y-2">
-                    <li>You're responsible for obtaining and maintaining valid API keys</li>
+                    <li>You&apos;re responsible for obtaining and maintaining valid API keys</li>
                     <li>API costs are separate from our service fees</li>
-                    <li>We encrypt but don't guarantee the security of stored API keys</li>
+                    <li>We encrypt but don&apos;t guarantee the security of stored API keys</li>
                     <li>Invalid or expired API keys will cause service interruptions</li>
                   </ul>
                 </div>
@@ -615,7 +615,7 @@ export default function TermsOfServicePage() {
                 Questions about these Terms? Contact us at hello@cheaperthankaren.com. Unlike our AI-generated email drafts, all legal questions get personal attention from actual humans (though Catalina might still help organize the responses).
               </p>
               <p className="text-green-800 mt-4">
-                These Terms are effective as of the date listed above and supersede all previous versions. By using our service, you acknowledge that you've read, understood, and agree to be bound by these Terms.
+                These Terms are effective as of the date listed above and supersede all previous versions. By using our service, you acknowledge that you&apos;ve read, understood, and agree to be bound by these Terms.
               </p>
             </div>
 

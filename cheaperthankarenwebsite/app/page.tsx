@@ -30,7 +30,7 @@ export default function HomePage() {
               You Have <span className="text-indigo-600">Better Things to Do</span><br /> Than Draft Emails
             </h1>
             <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              AI-powered email automation that's cheaper than doing it yourself or paying your assistant Karen (and never calls in sick). Free yourself or your
+              AI-powered email automation that&apos;s cheaper than doing it yourself or paying your assistant Karen (and never calls in sick). Free yourself or your
               assistant from repetitive tasks so they can focus on what actually moves your business forward.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -56,14 +56,14 @@ export default function HomePage() {
             </h2>
             <div className="prose prose-lg mx-auto text-gray-600">
               <p>
-                You hire an amazing assistant. They're smart, capable, and could be running strategic projects that
-                actually grow your business. Instead? They're stuck crafting the same email responses over and over
+                You hire an amazing assistant. They&apos;re smart, capable, and could be running strategic projects that
+                actually grow your business. Instead? They&apos;re stuck crafting the same email responses over and over
                 again.
               </p>
               <p className="font-medium text-gray-800">
-                "Thanks for reaching out..." "I'll check his calendar..." "Let me follow up on that..."
+                &quot;Thanks for reaching out...&quot; &quot;I&apos;ll check his calendar...&quot; &quot;Let me follow up on that...&quot;
               </p>
-              <p>Sound familiar? That's exactly what was happening with my executive assistant, Catalina.</p>
+              <p>Sound familiar? That&apos;s exactly what was happening with my executive assistant, Catalina.</p>
             </div>
           </div>
         </div>
@@ -79,18 +79,18 @@ export default function HomePage() {
               </h2>
               <div className="prose prose-lg text-gray-600 space-y-4">
                 <p>
-                  Hi, <a href="https://www.linkedin.com/in/jasonmlong1/" className="text-indigo-600 hover:text-indigo-800 underline">I'm Jason</a>. Like many executives, I have an incredible EA who does everything from managing my
+                  Hi, <a href="https://www.linkedin.com/in/jasonmlong1/" className="text-indigo-600 hover:text-indigo-800 underline">I&apos;m Jason</a>. Like many executives, I have an incredible EA who does everything from managing my
                   calendar to coordinating complex projects. But I watched Catalina spend hours each day on repetitive
                   email tasks that, frankly, a well-trained AI could handle better and faster.
                 </p>
                 <p>
-                  So we built something about it. And now we're sharing it with the world because every great assistant
+                  So we built something about it. And now we&apos;re sharing it with the world because every great assistant
                   deserves to work on great things, not email drudgery.
                 </p>
                 <div className="bg-indigo-50 p-6 rounded-lg border border-indigo-100">
                   <p className="text-indigo-800 font-medium text-lg">
                     The math is simple: AI automation costs less than hiring another assistant, works 24/7, never takes
-                    vacation, and gets better over time. It's literally cheaper than Karen—hence the name.
+                    vacation, and gets better over time. It&apos;s literally cheaper than Karen—hence the name.
                   </p>
                 </div>
               </div>
@@ -120,7 +120,7 @@ export default function HomePage() {
                   <div className="w-8 h-8 bg-green-100 rounded-full flex items-center justify-center">
                     <CheckCircle className="w-4 h-4 text-green-600" />
                   </div>
-                  <span className="text-gray-700">Time for strategic work she's actually great at</span>
+                  <span className="text-gray-700">Time for strategic work she&apos;s actually great at</span>
                 </div>
               </div>
             </div>
@@ -271,8 +271,8 @@ export default function HomePage() {
               <div className="space-y-6">
                 <div className="border-l-4 border-indigo-500 pl-4">
                   <p className="text-gray-600 italic mb-2">
-                    "Instead of spending my morning crafting the same email responses, I can focus on planning strategic
-                    initiatives. The AI handles the routine; I handle what actually moves the business forward."
+                    &quot;Instead of spending my morning crafting the same email responses, I can focus on planning strategic
+                    initiatives. The AI handles the routine; I handle what actually moves the business forward.&quot;
                   </p>
                   <p className="text-sm text-gray-500">— Catalina, Executive Assistant</p>
                 </div>
@@ -297,10 +297,10 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Coming Soon: The Full "Cheaper Than Karen" Suite
+              Coming Soon: The Full &quot;Cheaper Than Karen&quot; Suite
             </h2>
             <p className="text-lg text-gray-600 max-w-3xl mx-auto">
-              Because email is just the beginning. We're building a complete automation platform for administrative
+              Because email is just the beginning. We&apos;re building a complete automation platform for administrative
               excellence.
             </p>
           </div>
@@ -352,7 +352,7 @@ export default function HomePage() {
             Ready to Free Your Assistant from Email Drudgery?
           </h2>
           <p className="text-xl text-indigo-100 mb-8 max-w-2xl mx-auto">
-            Join the executives who've already discovered what happens when great assistants get to focus on great work.
+            Join the executives who&apos;ve already discovered what happens when great assistants get to focus on great work.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button size="lg" variant="secondary" className="px-8 py-3" asChild>
