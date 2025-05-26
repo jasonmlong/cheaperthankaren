@@ -256,7 +256,7 @@ export default function HomePage() {
                   <div className="w-8 h-8 bg-indigo-100 rounded-full flex items-center justify-center">
                     <DollarSign className="w-4 h-4 text-indigo-600" />
                   </div>
-                  <span className="text-gray-700">ROI timeline: Typically breaks even within first month</span>
+                  <span className="text-gray-700">ROI timeline: Breakeven in 1 week at high volume</span>
                 </div>
               </div>
               <Button size="lg" className="bg-indigo-600 hover:bg-indigo-700" asChild>
