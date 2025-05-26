@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   title: "CheaperThanKaren - AI Email Automation for Executive Assistants",
   description:
     "AI-powered email automation that frees assistants from repetitive tasks so they can focus on strategic work that actually moves your business forward.",
+  icons: {
+    icon: "/favicon.ico", // Add this line
+  },
 }
 
 export default function RootLayout({
