@@ -423,7 +423,7 @@ export default function AIEmailDrafterPage() {
                 </div>
                 <div className="flex justify-between items-center">
                   <span className="text-gray-600">ROI timeline:</span>
-                  <span className="font-semibold text-blue-600">Typically breaks even within 30 days</span>
+                  <span className="font-semibold text-blue-600">1yr plan breaks even within 1 week at high volumes</span>
                 </div>
               </div>
             </div>
