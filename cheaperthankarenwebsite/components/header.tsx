@@ -83,11 +83,11 @@ export function Header() {
 
           {/* Desktop CTA */}
           <div className="hidden md:flex items-center space-x-4">
-          {/*
+          {
             <Button variant="outline" asChild>
-              <Link href="/ai-email-drafter">Try Free Trial</Link>
+              <Link href="https://cheaperthankaren.productlift.dev/">Support</Link>
             </Button>
-            */}
+            }
             <Button className="bg-indigo-600 hover:bg-indigo-700" asChild>
               <Link href="/ai-email-drafter">Get Started</Link>
             </Button>
@@ -149,8 +149,8 @@ export function Header() {
 
                 <div className="mt-auto pb-6 space-y-4">
                   <Button variant="outline" className="w-full" asChild>
-                    <Link href="/ai-email-drafter" onClick={() => setIsOpen(false)}>
-                      Try Free Trial
+                    <Link href="https://cheaperthankaren.productlift.dev/" onClick={() => setIsOpen(false)}>
+                      Support
                     </Link>
                   </Button>
                   <Button className="w-full bg-indigo-600 hover:bg-indigo-700" asChild>
